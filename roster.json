@@ -1,0 +1,52 @@
+{
+  "en": [
+    {
+      "name": "android-developers Google Group",
+      "url": "http://groups.google.com/group/android-developers"
+    },
+    {
+      "name": "StackOverflow",
+      "url": "http://stackoverflow.com/questions/tagged/android"
+    }
+  ],
+  "es": [
+    {
+      "name": "AndroidStartup",
+      "value": "https://groups.google.com/forum/?hl=es&fromgroups#!forum/android-startup"
+    },
+    {
+      "name": "andronautas.com",
+      "value": "http://foro.andronautas.com/"
+    }
+  ],
+  "he": [
+    {
+      "name": "iAndroid",
+      "value": "http://iandroid.co.il/forum/"
+    }
+  ],
+  "jp": [
+    {
+      "name": "日本Androidの会",
+      "value": "https://groups.google.com/forum/?fromgroups#!forum/android-group-japan"
+    }
+  ],
+  "pt": [
+    {
+      "name": "Android Brasil - Dev",
+      "value": "https://groups.google.com/group/androidbrasil-dev"
+    }
+  ],
+  "ru": [
+    {
+      "name": "ХэшКод",
+      "value": "http://hashcode.ru/questions/tagged/android/"
+    }
+  ],
+  "sv": [
+    {
+      "name": "Swedroid",
+      "value": "http://www.swedroid.se/forum/forumdisplay.php?f=4"
+    }
+  ]
+}
