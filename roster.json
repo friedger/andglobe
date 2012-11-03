@@ -1,52 +1,90 @@
 {
-  "en": [
-    {
-      "name": "android-developers Google Group",
-      "url": "http://groups.google.com/group/android-developers"
-    },
-    {
-      "name": "StackOverflow",
-      "url": "http://stackoverflow.com/questions/tagged/android"
-    }
-  ],
-  "es": [
-    {
-      "name": "AndroidStartup",
-      "value": "https://groups.google.com/forum/?hl=es&fromgroups#!forum/android-startup"
-    },
-    {
-      "name": "andronautas.com",
-      "value": "http://foro.andronautas.com/"
-    }
-  ],
-  "he": [
-    {
-      "name": "iAndroid",
-      "value": "http://iandroid.co.il/forum/"
-    }
-  ],
-  "jp": [
-    {
-      "name": "日本Androidの会",
-      "value": "https://groups.google.com/forum/?fromgroups#!forum/android-group-japan"
-    }
-  ],
-  "pt": [
-    {
-      "name": "Android Brasil - Dev",
-      "value": "https://groups.google.com/group/androidbrasil-dev"
-    }
-  ],
-  "ru": [
-    {
-      "name": "ХэшКод",
-      "value": "http://hashcode.ru/questions/tagged/android/"
-    }
-  ],
-  "sv": [
-    {
-      "name": "Swedroid",
-      "value": "http://www.swedroid.se/forum/forumdisplay.php?f=4"
-    }
-  ]
+  "en": {
+    "name": "English",
+    "description": "These sites are places where you can ask or answer Android application development questions.",
+    "sites": [
+      {
+        "name": "android-developers Google Group",
+        "url": "http://groups.google.com/group/android-developers"
+      },
+      {
+        "name": "StackOverflow",
+        "url": "http://stackoverflow.com/questions/tagged/android"
+      }
+    ]
+  },
+  "es": {
+    "name": "Español",
+    "description": "Estos sitios son lugares donde se puede hacer o contestar preguntas de desarrollo de aplicaciones Android.",
+    "sites": [
+      {
+        "name": "AndroidStartup",
+        "value": "https://groups.google.com/forum/?hl=es&fromgroups#!forum/android-startup"
+      },
+      {
+        "name": "andronautas.com",
+        "value": "http://foro.andronautas.com/"
+      }
+    ]
+  },
+  "he": {
+    "name": "עברית",
+    "description": "אתרים אלה הם מקומות שבם אתה יכול לשאול או לענות על שאלות פיתוח יישומי אנדרואיד.",
+    "sites": [
+      {
+        "name": "iAndroid",
+        "value": "http://iandroid.co.il/forum/"
+      }
+    ]
+  },
+  "jp": {
+    "name": "日本語",
+    "description": "これらのサイトは、あなたが尋ねるまたはAndroidアプリケーション開発についての質問に答えることができる場所です。",
+    "sites": [
+      {
+        "name": "日本Androidの会",
+        "value": "https://groups.google.com/forum/?fromgroups#!forum/android-group-japan"
+      }
+    ]
+  },
+  "nl": {
+    "name": "Nederlands",
+    "description": "Deze sites zijn plaatsen waar je kunt vragen of beantwoorden Android applicatie-ontwikkeling vragen.",
+    "sites": [
+      {
+        "name": "Androidworld.nl",
+        "value": "http://www.androidworld.nl/forum/android-development/"
+      }
+    ]
+  },
+  "pt": {
+    "name": "Português",
+    "description": "Estes sites são lugares onde você pode pedir ou responder a perguntas de desenvolvimento Android.",
+    "sites": [
+      {
+        "name": "Android Brasil - Dev",
+        "value": "https://groups.google.com/group/androidbrasil-dev"
+      }
+    ]
+  },
+  "ru": {
+    "name": "русский язык",
+    "description": "Эти участки являются местами, где Вы можете спросить или ответить на Android вопросы разработки приложений.",
+    "sites": [
+      {
+        "name": "ХэшКод",
+        "value": "http://hashcode.ru/questions/tagged/android/"
+      }
+    ]
+  },
+  "sv": {
+    "name": "Svenska",
+    "description": "Dessa områden är platser där du kan ställa eller svara Android frågor applikationsutveckling.",
+    "sites": [
+      {
+        "name": "Swedroid",
+        "value": "http://www.swedroid.se/forum/forumdisplay.php?f=4"
+      }
+    ]
+  }
 }
