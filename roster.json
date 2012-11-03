@@ -5,11 +5,11 @@
     "sites": [
       {
         "name": "android-developers Google Group",
-        "value": "http://groups.google.com/group/android-developers"
+        "url": "http://groups.google.com/group/android-developers"
       },
       {
         "name": "StackOverflow",
-        "value": "http://stackoverflow.com/questions/tagged/android"
+        "url": "http://stackoverflow.com/questions/tagged/android"
       }
     ]
   },
@@ -19,11 +19,11 @@
     "sites": [
       {
         "name": "AndroidStartup",
-        "value": "https://groups.google.com/forum/?hl=es&fromgroups#!forum/android-startup"
+        "url": "https://groups.google.com/forum/?hl=es&fromgroups#!forum/android-startup"
       },
       {
         "name": "andronautas.com",
-        "value": "http://foro.andronautas.com/"
+        "url": "http://foro.andronautas.com/"
       }
     ]
   },
@@ -33,7 +33,7 @@
     "sites": [
       {
         "name": "iAndroid",
-        "value": "http://iandroid.co.il/forum/"
+        "url": "http://iandroid.co.il/forum/"
       }
     ]
   },
@@ -43,7 +43,7 @@
     "sites": [
       {
         "name": "日本Androidの会",
-        "value": "https://groups.google.com/forum/?fromgroups#!forum/android-group-japan"
+        "url": "https://groups.google.com/forum/?fromgroups#!forum/android-group-japan"
       }
     ]
   },
@@ -53,7 +53,7 @@
     "sites": [
       {
         "name": "Androidworld.nl",
-        "value": "http://www.androidworld.nl/forum/android-development/"
+        "url": "http://www.androidworld.nl/forum/android-development/"
       }
     ]
   },
@@ -63,7 +63,7 @@
     "sites": [
       {
         "name": "Android Brasil - Dev",
-        "value": "https://groups.google.com/group/androidbrasil-dev"
+        "url": "https://groups.google.com/group/androidbrasil-dev"
       }
     ]
   },
@@ -73,7 +73,7 @@
     "sites": [
       {
         "name": "ХэшКод",
-        "value": "http://hashcode.ru/questions/tagged/android/"
+        "url": "http://hashcode.ru/questions/tagged/android/"
       }
     ]
   },
@@ -83,7 +83,7 @@
     "sites": [
       {
         "name": "Swedroid",
-        "value": "http://www.swedroid.se/forum/forumdisplay.php?f=4"
+        "url": "http://www.swedroid.se/forum/forumdisplay.php?f=4"
       }
     ]
   }
