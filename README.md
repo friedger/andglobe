@@ -6,10 +6,25 @@ on Android application development.
 The [official copy of the roster](andglobe/blob/master/roster.json) is in this repo. It is cached on Amazon S3 and
 is accessible via [http://roster.andglobe.com](http://roster.andglobe.com).
 
+An HTML rendition of the roster is accessible via [http://www.andglobe.com](http://www.andglobe.com).
+
 The official roster is in JSON. The top-level keys are
 [the ISO 639-1 language codes](http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the language
-supported by the site. The values are each an array of objects, with `name` and `url` attributes for
-the display name and question-and-answer URL, respectively. The languages are sorted by ISO 639-1 code
+supported by the site. The value for each key is another JSON object, with three attributes:
+
+1. `"name"`, which is the name of the language as represented in that language itself
+(e.g., Spanish is `Español`). Where applicable, use formatting as for a proper noun
+(e.g., the first letter is capitalized).
+
+2. `"description"`, which is a translation of the following sentence into that language:
+`These sites are places where you can ask or answer Android application development questions.`
+Note that the initial translations were provided by Google Translate and therefore may
+need some improvement.
+
+3. `"sites"`, which is a JSON array of objects, with `name` and `url` attributes for
+the display name and question-and-answer URL, respectively.
+
+The languages are sorted by ISO 639-1 code
 (using English collation); the sites should be sorted by name using the collation native to the language
 in question.
 
