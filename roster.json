@@ -5,11 +5,11 @@
     "sites": [
       {
         "name": "android-developers Google Group",
-        "url": "http://groups.google.com/group/android-developers"
+        "value": "http://groups.google.com/group/android-developers"
       },
       {
         "name": "StackOverflow",
-        "url": "http://stackoverflow.com/questions/tagged/android"
+        "value": "http://stackoverflow.com/questions/tagged/android"
       }
     ]
   },
