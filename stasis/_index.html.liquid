@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+
+<!-- based off of the Skeleton project (http://www.getskeleton.com/) -->
+
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+<head>
+
+	<meta charset="utf-8">
+	<title>Global Android Developer Support</title>
+	<meta name="description" content="These sites are places where you can ask or answer Android application development questions">
+	<meta name="author" content="CommonsWare, LLC">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<link rel="stylesheet" href="stylesheets/base.css">
+	<link rel="stylesheet" href="stylesheets/skeleton.css">
+	<link rel="stylesheet" href="stylesheets/layout.css">
+
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<link rel="shortcut icon" href="images/favicon.ico">
+	<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+
+</head>
+<body>
+
+<a href="https://github.com/commonsguy/andglobe"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_green_007200.png" alt="Fork me on GitHub"></a>
+
+	<div class="container">
+		<div class="sixteen columns">
+      <p style="text-align: center">
+{% for language in keys %}
+        <a href="#{{ language }}">{{ roster[language].name }}</a>
+{% unless forloop.last %}
+        &mdash;
+{% endunless %}
+{% endfor %} 
+        </p>
+			<h1><img style="border: 0; vertical-align: middle" src="images/apple-touch-icon-114x114.png" alt="Global Android Developer Support">Global Android Developer Support</h1>
+		</div>
+
+
+{% for language in keys %}
+		<div class="sixteen columns">
+			<a name="{{language}}"></a><h2 style="margin-bottom: 10px">{{ roster[language].name }}</h2>
+		</div>
+
+		<div class="one-third column">
+			<ul class="square">
+{% for site in roster[language].sites | sort %}
+				<li><a href="{{site.value}}">{{site.name}}</a></li>
+{% endfor %} 
+			</ul>
+		</div>
+
+		<div class="two-thirds column">
+			<p>{{ roster[language].description }}</p>
+		</div>
+{% endfor %} 
+
+    <hr/>
+
+		<div class="sixteen columns">
+      <p style="text-align: center">Copyright &copy; {{ 'now' | date: "%Y" }}  CommonsWare, LLC<br/><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.</p>
+		</div>
+
+
+	</div>
+</body>
+</html>
