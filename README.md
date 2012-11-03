@@ -40,3 +40,11 @@ If you choose this route, please help us keep the roster in sorted order.
 The `statis/` directory contains a [Stasis](http://stasis.me/) set of scripts
 for generating the static HTML rendition of the roster.
 
+Please be advised that the guy managing this repository is monolingual (at best),
+and so any assistance in ensuring that this material is well-suited for
+the various language-specific developer groups is greatly appreciated.
+
+Who Made This?
+--------------
+<a href="http://commonsware.com">![CommonsWare](http://commonsware.com/images/logo.png)</a>
+
