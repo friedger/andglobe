@@ -18,6 +18,18 @@
     "description": "Estos sitios son lugares donde se puede hacer o contestar preguntas de desarrollo de aplicaciones Android.",
     "sites": [
       {
+        "name": "HTCMania",
+        "url": "http://www.htcmania.com/forumdisplay.php?s=80915009625b89af4d15a55174eb1790&f=153"
+      },
+      {
+        "name": "Androidsis",
+        "url": "http://www.androidsis.com/foro/"
+      },
+      {
+        "name": "Android-Spa",
+        "url": "http://www.android-spa.com/index.php"
+      },
+      {
         "name": "AndroidStartup",
         "url": "https://groups.google.com/forum/?hl=es&fromgroups#!forum/android-startup"
       },
