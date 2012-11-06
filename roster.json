@@ -53,6 +53,16 @@
       }
     ]
   },
+  "it": {
+    "name": "Italiano",
+    "description": "In questi siti web puoi chiedere o rispondere a domande relative allo sviluppo di applicazioni Android",
+    "sites": [
+      {
+        "name": "anddev.it",
+        "url": "http://www.anddev.it"
+      }
+    ]
+  },
   "jp": {
     "name": "日本語",
     "description": "これらのサイトは、あなたが尋ねるまたはAndroidアプリケーション開発についての質問に答えることができる場所です。",
