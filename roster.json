@@ -19,7 +19,7 @@
   },
   "es": {
     "name": "Español",
-    "description": "Estos sitios son lugares donde se puede hacer o contestar preguntas de desarrollo de aplicaciones Android.",
+    "description": "Desarrollo de aplicaciones móviles utilizando el framework de Android. Obtén ayuda y soluciona tus problemas de desarrollo, consejos de implementación y estrategias para mejorar la velocidad de la aplicación y la experiencia final del usuario.",
     "sites": [
       {
         "name": "HTCMania",
@@ -40,6 +40,10 @@
       {
         "name": "andronautas.com",
         "url": "http://foro.andronautas.com/"
+      },
+      {
+        "name": "Desarrolladores Android",
+        "url": "http://www.desarrolladores-android.com/"
       }
     ]
   },
