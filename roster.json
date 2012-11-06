@@ -85,7 +85,7 @@
   },
   "pt": {
     "name": "Português",
-    "description": "Estes sites são lugares onde você pode pedir ou responder a perguntas de desenvolvimento Android.",
+    "description": "Aqui estão alguns sites onde você pode perguntar ou responder dúvidas sobre desenvolvimento de aplicações para Android.",
     "sites": [
       {
         "name": "Android Brasil - Dev",
@@ -95,7 +95,7 @@
   },
   "ru": {
     "name": "русский язык",
-    "description": "Эти участки являются местами, где Вы можете спросить или ответить на Android вопросы разработки приложений.",
+    "description": "На этих сайтах Вы можете спросить или ответить на вопросы о разрабoтки Android приложений.",
     "sites": [
       {
         "name": "ХэшКод",
