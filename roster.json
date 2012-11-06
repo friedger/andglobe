@@ -4,6 +4,10 @@
     "description": "These sites are places where you can ask or answer Android application development questions.",
     "sites": [
       {
+        "name": "anddev.org",
+        "url": "http://www.anddev.org/"
+      },
+      {
         "name": "android-developers Google Group",
         "url": "http://groups.google.com/group/android-developers"
       },
