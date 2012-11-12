@@ -47,6 +47,16 @@
       }
     ]
   },
+  "fr": {
+    "name":"Français",
+    "description": "Ces sites web sont des endroits où vous pouvez poser ou répondre à des questions sur le développement d'applications Android.",
+    "sites": [
+      {
+        "name": "FrAndroid",
+        "url":"http://forum.frandroid.com/forum/7-developpement/"
+      }
+    ]
+  },
   "he": {
     "name": "עברית",
     "description": "אתרים אלה הם מקומות שבם אתה יכול לשאול או לענות על שאלות פיתוח יישומי אנדרואיד.",
