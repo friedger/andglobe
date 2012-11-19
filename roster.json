@@ -109,11 +109,15 @@
   },
   "ru": {
     "name": "русский язык",
-    "description": "На этих сайтах Вы можете спросить или ответить на вопросы о разрабoтки Android приложений.",
+    "description": "На этих сайтах Вы можете спросить или ответить на вопросы о разрабoтке Android приложений.",
     "sites": [
       {
         "name": "ХэшКод",
         "url": "http://hashcode.ru/questions/tagged/android/"
+      },
+      {
+        "name": "Xабрахабр | Q&A",
+        "url": "http://habrahabr.ru/hub/android/qa/"
       }
     ]
   },
