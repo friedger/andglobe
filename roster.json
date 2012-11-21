@@ -1,4 +1,14 @@
 {
+ "de": {
+     "name": "Deutsch",
+     "description": "Diese Seite bietet deutschsprachigen Android Entwicklern die Möglichkeit sich auszutauschen und Fragen zu stellen.",
+     "sites": [
+       {
+         "name": "Androidpit.de",
+         "url": "http://www.androidpit.de/de/android/forum/category/4010/Android-Entwickler-Forum"
+       }
+     ]
+   },
   "en": {
     "name": "English",
     "description": "These sites are places where you can ask or answer Android application development questions.",
