@@ -37,7 +37,7 @@ If you choose this route, please help us keep the roster in sorted order.
 
 - Send an email to globaldev@commonsware.com with the language, name, and URL.
 
-The `statis/` directory contains a [Stasis](http://stasis.me/) set of scripts
+The `stasis/` directory contains a [Stasis](http://stasis.me/) set of scripts
 for generating the static HTML rendition of the roster.
 
 Please be advised that the guy managing this repository is monolingual (at best),
