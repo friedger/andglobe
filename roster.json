@@ -113,10 +113,10 @@
         "name": "Androidworld.nl",
         "url": "http://www.androidworld.nl/forum/android-development/"
       },
-	  {
-		  "name": "The Dutch Android User Group",
-		  "url": "https://plus.google.com/communities/101170150410611427998"
-	  }
+      {
+        "name": "The Dutch Android User Group",
+        "url": "https://plus.google.com/communities/101170150410611427998"
+      }
     ]
   },
   "pt": {
@@ -126,6 +126,10 @@
       {
         "name": "Android Brasil - Dev",
         "url": "https://groups.google.com/group/androidbrasil-dev"
+      },
+      {
+        "name": "GUJ",
+        "url": "http://www.guj.com.br/tag/android"
       }
     ]
   },
