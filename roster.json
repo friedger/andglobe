@@ -107,12 +107,16 @@
   },
   "nl": {
     "name": "Nederlands",
-    "description": "Deze sites zijn plaatsen waar je kunt vragen of beantwoorden Android applicatie-ontwikkeling vragen.",
+    "description": "Dit zijn sites waar je Android applicatie-ontwikkeling vragen kunt stellen of beantwoorden.",
     "sites": [
       {
         "name": "Androidworld.nl",
         "url": "http://www.androidworld.nl/forum/android-development/"
-      }
+      },
+	  {
+		  "name": "The Dutch Android User Group",
+		  "url": "https://plus.google.com/communities/101170150410611427998"
+	  }
     ]
   },
   "pt": {
