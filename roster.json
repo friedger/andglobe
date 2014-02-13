@@ -130,6 +130,10 @@
       {
         "name": "GUJ",
         "url": "http://www.guj.com.br/tag/android"
+      },
+      {
+        "name": "StackOverflow em Português",
+        "url": "http://pt.stackoverflow.com/questions/tagged/android"
       }
     ]
   },
