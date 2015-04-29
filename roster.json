@@ -164,5 +164,15 @@
         "url": "http://www.swedroid.se/forum/forumdisplay.php?f=4"
       }
     ]
+  },
+  "tr": {
+    "name": "Türkçe",
+    "description": "Türkçe içerikli kaynaklar ile Android programlama öğrenmek için aşağıdaki linkleri kullanınız.",
+    "sites": [
+      {
+        "name": "Geleceği Yazanlar Android",
+        "url": "https://gelecegiyazanlar.turkcell.com.tr/soru-cevap/android"
+      }
+    ]
   }
 }
