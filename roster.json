@@ -30,6 +30,10 @@
         "url": "http://groups.google.com/group/android-developers"
       },
       {
+        "name": "Reddit",
+        "url": "http://www.reddit.com/r/androiddev"
+      },
+      {
         "name": "StackOverflow",
         "url": "http://stackoverflow.com/questions/tagged/android"
       }
@@ -102,6 +106,10 @@
       {
         "name": "日本Androidの会",
         "url": "https://groups.google.com/forum/?fromgroups#!forum/android-group-japan"
+      },
+      {
+        "name": "スタック・オーバーフロー",
+        "url": "http://ja.stackoverflow.com/questions/tagged/android"
       }
     ]
   },
@@ -152,6 +160,14 @@
       {
         "name": "AndroidForums.ru",
         "url": "http://androidforums.ru/forum/8-%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8-%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC/"
+      },
+      {
+        "name": "Android United",
+        "url": "http://alexnab.github.io/android-united/"
+      },
+      {
+        "name": "Stack Overflow на русском",
+        "url": "http://ru.stackoverflow.com/questions/tagged/android"
       }
     ]
   },
